@@ -9,7 +9,7 @@ This frontend connects seamlessly to the VITANOVA Spring Boot backend and is ful
 
 The frontend is deployed and running at:
 
-http://93.127.135.191
+https://vitanovaec.com
 
 Served through Nginx with React build files.
 
